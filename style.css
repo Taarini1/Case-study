@@ -1,0 +1,99 @@
+#google_lens{
+width:30px;
+height:50px;
+
+}
+
+#Mobilenet{
+    width:250px;
+    height:50px;  
+}
+
+#img1{
+    width:250px;
+    height: 200px;
+}
+
+#timg1{
+background:linear-gradient(rgb(255, 0, 255),rgb(0, 247, 255));
+border-radius: 30px;
+width: 500px;
+}
+
+#timg2{
+    background:linear-gradient(rgb(255, 60, 0),rgb(0, 247, 255));
+    border-radius: 30px;
+    width: 500px;
+    }
+
+    #timg3{
+        background:linear-gradient(rgb(21, 255, 0),rgb(25, 0, 255));
+        border-radius: 30px;
+        width: 500px;
+        }
+
+        #timg4{
+            background:linear-gradient(rgb(55, 0, 255),rgb(255, 0, 0));
+            border-radius: 30px;
+            width: 500px;
+            }
+
+            #timg5{
+                background:linear-gradient(rgb(250, 250, 240),rgb(1, 0, 3));
+                border-radius: 30px;
+                width: 500px;
+                color:rgb(70, 43, 226)
+                }
+                #timg6{
+                    background:linear-gradient(rgb(74, 83, 73),rgb(62, 49, 187));
+                    border-radius: 30px;
+                    width: 500px;
+                    }
+
+                    #timg7{
+                        background:linear-gradient(rgb(212, 209, 12),rgb(187, 54, 49));
+                        border-radius: 30px;
+                        width: 500px;
+                        }
+
+                        #timg8{
+                            background:linear-gradient(rgb(212, 42, 12),rgb(49, 182, 187));
+                            border-radius: 30px;
+                            width: 500px;
+                            }
+
+                            #timg9{
+                                background:linear-gradient(rgb(12, 212, 45),rgb(187, 88, 49));
+                                border-radius: 30px;
+                                width: 500px;
+                                }
+
+                                #timg10{
+                                    background:linear-gradient(rgb(189, 12, 212),rgb(187, 88, 49));
+                                    border-radius: 30px;
+                                    width: 500px;
+                                    }
+ #conclusion{
+border-radius: 30px;
+background-color: rgb(206, 130, 30);
+width: 300px;
+height: 100px;
+
+  }
+
+  .footer{
+    position: fixed;
+    bottom:0;
+    width:100%;
+    text-align: center;
+    background-color: crimson;
+    border-radius: 9%;
+    color:beige;
+    height:50px;
+    cursor:pointer;
+    font-size: larger;
+    vertical-align: center;
+    padding-top: 10px;
+  }
+
+                
